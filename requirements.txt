@@ -1,2 +1,7 @@
 streamlit >= 0.84.0
 spacy
+django
+djangorestframework
+matplotlib
+numpy
+pandas
